@@ -8,8 +8,8 @@ import io.javalin.http.staticfiles.Location;
 
 import java.util.ArrayList;
 import br.edu.ifpr.pgua.eic.tads.models.*;
-
-
+ 
+  
 
 /**
  * Hello world!
